@@ -1,0 +1,82 @@
+.main-content {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #F8F5F2;
+    padding: 150px;
+    background-image: url("./assets/images/bg.png");
+    background-position: top right;
+}
+
+.header, .sub-header {
+    font-family: "Cormorant Garamond", serif;
+    margin: 0;
+}
+
+.header {
+    margin-bottom: 10px;
+    font-size: 32px;
+}
+
+.sub-header {
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+p, ul {
+    font-family: "Instrument Serif", serif;
+    font-size: 20px;
+    margin: 0;
+}
+
+.teal-text {
+    color: #4A5B56;
+}
+
+.mt-150 {
+    margin-top: 150px;
+}
+
+.mt-200 {
+    margin-top: 200px;
+}
+
+.mb-100 {
+    margin-bottom: 100px;
+}
+
+.mv-4 {
+    margin: 4px 0;
+}
+
+.mv-15 {
+    margin: 15px 0;
+}
+
+.mv-100 {
+    margin: 100px 0;
+}
+
+.mh-100 {
+    margin: 0 100px;
+}
+
+.footer {
+    font-size: 15px;
+}
+
+.cursive {
+    font-family: "Beth Ellen", cursive;
+    font-size: 48px;
+}
+
+.left-content {
+    width: 600px;
+}
+
+.right-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+}
