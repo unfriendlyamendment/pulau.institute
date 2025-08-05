@@ -33,6 +33,10 @@ p, ul {
     margin: 0;
 }
 
+a {
+    color: #4A5B56;
+}
+
 .teal-text {
     color: #4A5B56;
 }
